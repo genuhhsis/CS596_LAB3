@@ -17,7 +17,7 @@ The DHT20 sensor is connected to the ESP32 using I2C:
 ![Hardware Setup Diagram 
 
 # Video Demonstration
-- Link: [Video Demo Link]()
+- Link: https://www.youtube.com/watch?v=IzeeD-PXMWY?
 
 # Features 
 - Real-time temperature and humidity monitoring
