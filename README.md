@@ -14,7 +14,7 @@ The DHT20 sensor is connected to the ESP32 using I2C:
 - VCC: 3.3V
 - GND: Ground
 
-![Hardware Setup Diagram 
+![Hardware Setup Diagram](images/TOP%20DOWN%20CIRCUIT%20-%20LAB3.png)
 
 # Video Demonstration
 - Link: https://www.youtube.com/watch?v=IzeeD-PXMWY?
